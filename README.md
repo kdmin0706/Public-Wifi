@@ -20,6 +20,8 @@
 - 사용자는 북마크 그룹을 생성하고, 그룹 목록을 확인하며 그룹을 수정하거나 삭제할 수 있습니다.
 - 사용자는 공공 와이파이 정보를 북마크로 추가하거나 삭제할 수 있습니다.
 
+## 📌 ERD
+![Wifi](https://github.com/kdmin0706/Public-Wifi/assets/124044861/11d05d1f-f82d-4e37-a6df-bbcc2b8cc2d9)
 
 ## 📌공공 와이파이 DB 시연영상
 [![video Label](http://img.youtube.com/vi/kGk7caUQXY4/0.jpg)](https://youtu.be/kGk7caUQXY4)
